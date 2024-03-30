@@ -40,11 +40,3 @@ HTML: Markup language for creating web pages.
 **Authors:**
 
 Akash Singh
-
-**Acknowledgments:**
-
-Thanks to openweathermap.org for providing weather data.
-
-**Disclaimer:**
-
-This project is for educational and demonstration purposes only. Weather data provided by third-party APIs may not always be accurate or up-to-date.
